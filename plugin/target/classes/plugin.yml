@@ -1,0 +1,6 @@
+name: plugin
+version: '1.0'
+main: org.blog.plugin.Plugin
+api-version: '1.20'
+commands:
+  test:

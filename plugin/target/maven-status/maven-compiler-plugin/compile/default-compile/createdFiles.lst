@@ -1,0 +1,3 @@
+org\blog\plugin\Plugin.class
+org\blog\plugin\command.class
+org\blog\plugin\testevent.class
